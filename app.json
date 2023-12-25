@@ -22,15 +22,15 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. @BotFather",
-      "value": ""
+      "value": "6559784740:AAEPx_6i8eLlL6tT7kex3cuETGNBaTSwARg"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1814890"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "346db519688cd678a2bc5908d3791967"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
@@ -50,7 +50,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "sam_sr_Bot"
     }
   },
   "addons": [
